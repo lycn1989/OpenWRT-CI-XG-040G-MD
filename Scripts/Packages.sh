@@ -63,6 +63,9 @@ UPDATE_PACKAGE "openclash" "vernesong/OpenClash" "dev" "pkg"
 
 #UPDATE_PACKAGE "luci-app-tailscale" "asvow/luci-app-tailscale" "main"
 
+UPDATE_PACKAGE "easytier" "EasyTier/luci-app-easytier" "main"
+UPDATE_PACKAGE "ddnsto" "linkease/ddnsto-openwrt" "main"
+
 #UPDATE_PACKAGE "athena-led" "unraveloop/JDC-AX6600-Athena-LED-Controller" "main"
 UPDATE_PACKAGE "ddns-go" "sirpdboy/luci-app-ddns-go" "main"
 #UPDATE_PACKAGE "diskman" "sbwml/luci-app-diskman" "main"
